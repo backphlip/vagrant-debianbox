@@ -1,5 +1,7 @@
 # Vagrant debianbox
 
+Vagrant box based on Debian
+
 ## Custom installed software and tools
 
 - git
